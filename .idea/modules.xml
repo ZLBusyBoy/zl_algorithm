@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/slow_fast_point/slow_fast_point.iml" filepath="$PROJECT_DIR$/slow_fast_point/slow_fast_point.iml" />
       <module fileurl="file://$PROJECT_DIR$/zl_algorithm.iml" filepath="$PROJECT_DIR$/zl_algorithm.iml" />
     </modules>
   </component>
