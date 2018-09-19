@@ -5,10 +5,8 @@ package org.zl.busyboy;
  */
 public class FindMiddleNode {
 
-
-
-
-
-
+    /*public static void main(String[] args) {
+        //Node slow,fast;
+    }*/
 
 }
